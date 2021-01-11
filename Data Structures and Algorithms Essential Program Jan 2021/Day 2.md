@@ -36,4 +36,5 @@
 # Question 3
 
 Write the similarity and difference between an array name and a pointer variable.
+
 A. An array is a collection of elements of similar data type and on the otherhand a pointer is a variable that stores the address of other variable. An array size decides the number of variables it can store however a pointer variable can store the address of only one variable in it.
