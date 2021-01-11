@@ -7,6 +7,7 @@
     3*3*3
     4*4*4*4
     
+    ### CODE FOR PATTERN
     for i in range(1,5):
       for k in range(1, i+1):
         if(k>1 and k<=i):
@@ -14,7 +15,6 @@
         print(i,end='')
         if(i==k):
           print()
-    
     
 # Question 2
 
